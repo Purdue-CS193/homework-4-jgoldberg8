@@ -35,3 +35,4 @@ public class Test1 {
         System.out.println(basicCalculator(Operation.DIVIDE, 1, 2));
     }
 }
+
