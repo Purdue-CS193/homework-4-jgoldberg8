@@ -22,3 +22,4 @@ public static double basicCalculator(Operation operation, int num1, int num2){
 
         return result;
     }
+
